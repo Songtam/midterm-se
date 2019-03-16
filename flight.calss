@@ -2,4 +2,8 @@ class flight{
 	public addFlight{
 	
 	}
+
+	public searchFlight{
+	
+	}
 }
