@@ -3,7 +3,7 @@ class flight{
 	
 	}
 
-	public searchFlight{
-	
+	public editFlight{
+
 	}
 }
